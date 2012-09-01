@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Troop534.org]]></title>
+  <link href="http://RayHightower.github.com/troop534/atom.xml" rel="self"/>
+  <link href="http://RayHightower.github.com/troop534/"/>
+  <updated>2012-09-01T12:09:05-05:00</updated>
+  <id>http://RayHightower.github.com/troop534/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
