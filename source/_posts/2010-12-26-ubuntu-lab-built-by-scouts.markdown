@@ -9,9 +9,11 @@ categories:
 
 Westbrook chose the following people for his project team:
 
+<p>
 * Four of his fellow scouts ranging in age from 11 to 17.
 * The maintenance supervisor of the church, critical in choosing the best path for cable runs.
 * Three adult advisors: Troop leaders who happen to work in information technology.
+</p>
 
 ####Hardware
 Several old systems became available when the church upgraded its computers earlier this year. Raymond learned about the old hardware just as he was deciding what to do for his "Eagle service project":http://www.nesa.org/trail/manual.html. He developed a plan, presented it to the leadership of the church and the troop, and they approved. Then Raymond's team got busy.
