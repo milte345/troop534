@@ -44,5 +44,5 @@ What's next? St. Mark plans to make the lab available to members of the church a
 
 Earlier this year Raymond shared a story about classmates who teased him for being a nerd. "That's okay", Raymond replied. "You're gonna ask me for a job one day." 
 
-Well put.
+Well put, Raymond Westbrook!
 
