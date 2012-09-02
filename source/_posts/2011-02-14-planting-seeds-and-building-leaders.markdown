@@ -7,20 +7,14 @@ categories:
 ---
 Eleven new Eagle Scouts were recognized on Sunday, Feb 13, 2011. The honorees are members of Troop 534, an organization that has produced 72 Eagles since 1938.
 
-*Eagle Scouts: An Elite Group*
+###Eagle Scouts: An Elite Group
 Fewer than three percent (3%) of those who enter Scouting make it to the rank of Eagle. Scouts who earn the rank have learned skills such as wilderness survival, first aid, entrepreneurship, citizenship, and investing. Leadership skills are tested when the Eagle candidate assembles a team of fellow scouts to complete a service project. 
 
-*Teamwork & Positive Results*
-Troop 534 is led by Scoutmaster Eddie L. Banks, Sr. and a dedicated group of adult volunteers. "St. Mark United Methodist Church":http://stmarkumcchicago.org has provided meeting space and valuable support for over 70 years.
+###Teamwork & Positive Results
+Troop 534 is led by Scoutmaster Eddie L. Banks, Sr. and a dedicated group of adult volunteers. [St. Mark United Methodist Church](http://stmarkumcchicago.org) has provided meeting space and valuable support for over 70 years.
 
 Thank you ABC 7 Chicago for coming out to cover the ceremony.
 
 <center><iframe title="YouTube video player" width="560" height="349" src="http://www.youtube.com/embed/Hqs2hjB0g6A?rel=0" frameborder="0" allowfullscreen></iframe></center>
 
-*Scouting and Technology*
-So... what does this have to do with technology? It's simple. The best technology leaders are those who have honed their skills from an early age. Teenager "Bill Gates":http://www.microsoft.com/presspass/exec/billg/bio.mspx dove into dumpsters at the University of Washington to find and read computer printouts. A young "Steve Jobs":http://en.wikipedia.org/wiki/Steve_Jobs wandered the campus of Reed College where he learned typography. Gates & Jobs built their companies on positive life experiences that began in their formative years.
-
-Our society grows stronger when we give our youth positive life experiences. Everybody wins when that happens, including members of the tech industry.
-
-The path to Eagle is tough, but this group of eleven persevered and vanquished all of the challenges. Congratulations Eagles!
-
+Our society grows stronger when we give our youth positive life experiences. Everybody wins when that happens. Congratulations Eagles!  
