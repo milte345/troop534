@@ -4,7 +4,7 @@
   <title><![CDATA[Troop534.org]]></title>
   <link href="http://RayHightower.github.com/troop534/atom.xml" rel="self"/>
   <link href="http://RayHightower.github.com/troop534/"/>
-  <updated>2012-09-01T19:55:46-05:00</updated>
+  <updated>2012-09-01T20:05:01-05:00</updated>
   <id>http://RayHightower.github.com/troop534/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -31,11 +31,13 @@
 
 <p>Westbrook chose the following people for his project team:</p>
 
+<blockquote>
 <ul>
 <li>Four of his fellow scouts ranging in age from 11 to 17.</li>
 <li>The maintenance supervisor of the church, critical in choosing the best path for cable runs.</li>
 <li>Three adult advisors: Troop leaders who happen to work in information technology.</li>
-</ul>
+<ul>
+</blockquote>
 
 
 <h4>Hardware</h4>
@@ -54,12 +56,9 @@ Ubuntu is a distribution of Linux, a free operating system that preforms many of
 
 <p>Ubuntu is open source software. Open source defies common sense because:</p>
 
-<ul>
-<li>It&#8217;s free.</li>
+<p><li>It&#8217;s free.</li>
 <li>You get much more than you pay for.</li>
-<li>By contributing time &amp; talent to open source, each person makes things better for all people.</li>
-</ul>
-
+<li>By contributing time &amp; talent to open source, each person makes things better for all people.</li></p>
 
 <p>Sounds like some crazy hippie madness from the sixties, right? Well&#8230; Google, Yahoo, Facebook, and many other successful tech companies run on open source software. A &#8220;two-page newsletter&#8221;:http://www.wisdomgroup.com/report/what_is_open_source/ tells more about the movement.</p>
 
