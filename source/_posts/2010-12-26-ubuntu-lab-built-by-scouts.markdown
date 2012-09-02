@@ -9,11 +9,13 @@ categories:
 
 Westbrook chose the following people for his project team:
 
-<p>
-* Four of his fellow scouts ranging in age from 11 to 17.
-* The maintenance supervisor of the church, critical in choosing the best path for cable runs.
-* Three adult advisors: Troop leaders who happen to work in information technology.
-</p>
+<blockquote>
+<ul>
+<li>Four of his fellow scouts ranging in age from 11 to 17.</li>
+<li>The maintenance supervisor of the church, critical in choosing the best path for cable runs.</li>
+<li>Three adult advisors: Troop leaders who happen to work in information technology.</li>
+<ul>
+</blockquote>
 
 ####Hardware
 Several old systems became available when the church upgraded its computers earlier this year. Raymond learned about the old hardware just as he was deciding what to do for his "Eagle service project":http://www.nesa.org/trail/manual.html. He developed a plan, presented it to the leadership of the church and the troop, and they approved. Then Raymond's team got busy.
@@ -29,9 +31,9 @@ Ubuntu is a distribution of Linux, a free operating system that preforms many of
 
 Ubuntu is open source software. Open source defies common sense because:
 
-* It's free.
-* You get much more than you pay for.
-* By contributing time & talent to open source, each person makes things better for all people.  
+<li>It's free.</li>
+<li>You get much more than you pay for.</li>
+<li>By contributing time & talent to open source, each person makes things better for all people.</li>  
 
 Sounds like some crazy hippie madness from the sixties, right? Well... Google, Yahoo, Facebook, and many other successful tech companies run on open source software. A "two-page newsletter":http://www.wisdomgroup.com/report/what_is_open_source/ tells more about the movement.
 
