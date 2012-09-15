@@ -11,6 +11,6 @@ Useful documents, made available here in portable document format (PDF).
 <ul>
   <li><a href="/downloads/youth.pdf">Youth Protection</a></li>
   <li><a href="/downloads/camping_gear.pdf">Camping Gear</a></li>
-  <li><a href="/downloads/eagle_project.pdf">Eagle Project Guidelines</a></li>
+  <li><a href="/downloads/eagle_project.pdf">Eagle Scout Service Project Workbook</a></li>
 </ul>
 
