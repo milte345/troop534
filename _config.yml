@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://RayHightower.github.com/troop534
+url: http://troop534.org
 title: Troop534.org
 subtitle: Boy Scouts of America - Troop 534 "Hey!" - Chicago, IL, USA
-author: 
+author: Scouts & leaders of Troop 534
 simple_search: http://google.com/search
-description:
+description: Boy Scouts of America - Troop 534 of Chicago, Illinois, USA
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -96,4 +96,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id: UA-330946-29
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
