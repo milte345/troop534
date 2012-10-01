@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Troop534.org]]></title>
-  <link href="http://RayHightower.github.com/troop534/atom.xml" rel="self"/>
-  <link href="http://RayHightower.github.com/troop534/"/>
-  <updated>2012-10-01T08:12:23-05:00</updated>
-  <id>http://RayHightower.github.com/troop534/</id>
+  <link href="http://troop534.org/atom.xml" rel="self"/>
+  <link href="http://troop534.org/"/>
+  <updated>2012-10-01T11:53:05-05:00</updated>
+  <id>http://troop534.org/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Founded in 1919]]></title>
-    <link href="http://RayHightower.github.com/troop534/blog/2012/09/17/founded-in-1919/"/>
+    <link href="http://troop534.org/blog/2012/09/17/founded-in-1919/"/>
     <updated>2012-09-17T21:33:00-05:00</updated>
-    <id>http://RayHightower.github.com/troop534/blog/2012/09/17/founded-in-1919</id>
+    <id>http://troop534.org/blog/2012/09/17/founded-in-1919</id>
     <content type="html"><![CDATA[<p>Newly recovered records show that Boy Scout Troop 534 &#8220;Hey!&#8221; was founded
 in October 1919, not 1938 as previously believed. The records were discovered by Scoutmaster Emeritus Robert T. Sublette, Sr. and Assistant Scoutmaster
 Norville Carter. One page is shown here:</p>
@@ -25,7 +25,7 @@ Norville Carter. One page is shown here:</p>
 <!-- more -->
 
 
-<p><img src="http://RayHightower.github.com/troop534/images/1919.jpg" width="550" alt="Troop 534 founded in 1919 in Chicago, IL, USA" title="Troop 534 founded in 1919 in Chicago, IL, USA" ></p>
+<p><img src="http://troop534.org/images/1919.jpg" width="550" alt="Troop 534 founded in 1919 in Chicago, IL, USA" title="Troop 534 founded in 1919 in Chicago, IL, USA" ></p>
 
 <p>More research is in order!</p>
 ]]></content>
@@ -33,9 +33,9 @@ Norville Carter. One page is shown here:</p>
   
   <entry>
     <title type="html"><![CDATA[Planting Seeds &amp; Building Leaders]]></title>
-    <link href="http://RayHightower.github.com/troop534/blog/2011/02/14/planting-seeds-and-building-leaders/"/>
+    <link href="http://troop534.org/blog/2011/02/14/planting-seeds-and-building-leaders/"/>
     <updated>2011-02-14T19:40:00-06:00</updated>
-    <id>http://RayHightower.github.com/troop534/blog/2011/02/14/planting-seeds-and-building-leaders</id>
+    <id>http://troop534.org/blog/2011/02/14/planting-seeds-and-building-leaders</id>
     <content type="html"><![CDATA[<p>Eleven new Eagle Scouts were recognized on Sunday, Feb 13, 2011. The honorees are members of Troop 534, an organization that has produced 72 Eagles since 1938.</p>
 
 <center><iframe title="YouTube video player" width="560" height="349" src="http://www.youtube.com/embed/Hqs2hjB0g6A?rel=0" frameborder="0" allowfullscreen></iframe></center>
@@ -60,10 +60,10 @@ Norville Carter. One page is shown here:</p>
   
   <entry>
     <title type="html"><![CDATA[Ubuntu Lab Built by Scouts]]></title>
-    <link href="http://RayHightower.github.com/troop534/blog/2010/12/26/ubuntu-lab-built-by-scouts/"/>
+    <link href="http://troop534.org/blog/2010/12/26/ubuntu-lab-built-by-scouts/"/>
     <updated>2010-12-26T19:39:00-06:00</updated>
-    <id>http://RayHightower.github.com/troop534/blog/2010/12/26/ubuntu-lab-built-by-scouts</id>
-    <content type="html"><![CDATA[<p><img src="http://RayHightower.github.com/troop534/images/ubuntu.png" border="0" alt="image" name="image" class="right" width="200" height="90" />Members of Boy Scout Troop 534 chose <a href="http://ubuntu.com">Ubuntu</a> for a new computer lab. The project was led by a 16-year-old Eagle candidate, Raymond Westbrook. St. Mark United Methodist Church in Chicago, IL provided the room and six ancient Intel-based PCs.</p>
+    <id>http://troop534.org/blog/2010/12/26/ubuntu-lab-built-by-scouts</id>
+    <content type="html"><![CDATA[<p><img src="http://troop534.org/images/ubuntu.png" border="0" alt="image" name="image" class="right" width="200" height="90" />Members of Boy Scout Troop 534 chose <a href="http://ubuntu.com">Ubuntu</a> for a new computer lab. The project was led by a 16-year-old Eagle candidate, Raymond Westbrook. St. Mark United Methodist Church in Chicago, IL provided the room and six ancient Intel-based PCs.</p>
 
 <p>Raymond Westbrook chose the following people for his project team:</p>
 
@@ -73,7 +73,7 @@ Norville Carter. One page is shown here:</p>
 
 <h3>Hardware</h3>
 
-<p>Several old systems became available when the church upgraded its computers earlier this year. Raymond learned about the old hardware just as he was deciding what to do for his <a href="http://RayHightower.github.com/troop534/assets/eagle_project.pdf">Eagle service project</a>. He developed a plan, presented it to the leadership of the church and the troop, and they approved. Then Raymond Westbrook&#8217;s team got busy.</p>
+<p>Several old systems became available when the church upgraded its computers earlier this year. Raymond learned about the old hardware just as he was deciding what to do for his <a href="http://troop534.org/assets/eagle_project.pdf">Eagle service project</a>. He developed a plan, presented it to the leadership of the church and the troop, and they approved. Then Raymond Westbrook&#8217;s team got busy.</p>
 
 <!-- more -->
 
@@ -82,7 +82,7 @@ Norville Carter. One page is shown here:</p>
 
 <p>Every project has its challenges. One machine appeared to have a dead hard drive, but opening the unit revealed a loose ribbon cable. Problem solved. The team found a dead power supply in another unit. The machine is too old to justify purchasing a new power supply, so that box will serve as an &#8220;organ donor&#8221; for the other computers.</p>
 
-<p><img src="http://RayHightower.github.com/troop534/images/ubuntu_lab.jpg" border="0" alt="image" name="image" class="right" width="300" height="177" /></p>
+<p><img src="http://troop534.org/images/ubuntu_lab.jpg" border="0" alt="image" name="image" class="right" width="300" height="177" /></p>
 
 <h3>Ubuntu Installation</h3>
 

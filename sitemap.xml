@@ -1,31 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>
-            http://RayHightower.github.com/troop534/blog/2010/12/26/ubuntu-lab-built-by-scouts/
-        </loc>
+        <loc>http://troop534.org/blog/2010/12/26/ubuntu-lab-built-by-scouts/</loc>
         <lastmod>2012-09-02T21:28:26-05:00</lastmod>
     </url>
     <url>
-        <loc>
-            http://RayHightower.github.com/troop534/blog/2011/02/14/planting-seeds-and-building-leaders/
-        </loc>
+        <loc>http://troop534.org/blog/2011/02/14/planting-seeds-and-building-leaders/</loc>
         <lastmod>2012-09-02T08:37:02-05:00</lastmod>
     </url>
     <url>
-        <loc>http://RayHightower.github.com/troop534/blog/2012/09/17/founded-in-1919/</loc>
+        <loc>http://troop534.org/blog/2012/09/17/founded-in-1919/</loc>
         <lastmod>2012-09-17T22:30:11-05:00</lastmod>
     </url>
     <url>
-        <loc>http://RayHightower.github.com/troop534/blog/archives/</loc>
+        <loc>http://troop534.org/blog/archives/</loc>
         <lastmod>2012-09-17T22:30:11-05:00</lastmod>
     </url>
     <url>
-        <loc>http://RayHightower.github.com/troop534/downloads/</loc>
+        <loc>http://troop534.org/downloads/</loc>
         <lastmod>2012-10-01T08:12:18-05:00</lastmod>
     </url>
     <url>
-        <loc>http://RayHightower.github.com/troop534/</loc>
+        <loc>http://troop534.org/</loc>
         <lastmod>2012-09-17T22:30:11-05:00</lastmod>
     </url>
 </urlset>
