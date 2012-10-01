@@ -1,10 +1,6 @@
 ---
 layout: page
 title: "contact"
-date:
-comments: false
-sharing: true
-footer: true
 ---
 <div id="wufoo-r7w8r3">
 Fill out my <a href="http://wisdomgroup.wufoo.com/forms/r7w8r3">online form</a>.
