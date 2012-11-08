@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "11 Rules Kids Will Not Learn in School"
+title: "11 Rules for Life"
 date: 2012-11-08 08:44
 comments: true
 sharing: true
 footer: true
 ---
 
-_The following advice has been attributed to Bill Gates. Further investigation reveals that the true author is Charles Sykes, an education reformer._ 
+_Kids will not learn these rules in school! The advice has been attributed to Bill Gates. Further investigation reveals that the true author is Charles Sykes, an education reformer._ 
 
 Rule 1: Life is not fair -- get used to it!
 
