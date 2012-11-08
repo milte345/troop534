@@ -13,7 +13,7 @@ Rule 1: Life is not fair -- get used to it!
 
 Rule 2: The world won't care about your self-esteem. The world will expect you to accomplish something BEFORE you feel good about yourself.
 
-Rule 3: You will NOT make $100,000 a year right out of high school. You won't be a vice-president with a car phone until you earn both.
+Rule 3: You will NOT make $100,000 a year right out of high school. You won't be a vice-president with a private jet until you earn both.
 
 Rule 4: If you think your teacher is tough, wait till you get a boss.
 
