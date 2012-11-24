@@ -28,11 +28,13 @@ William B. Ball
 
 &#42; William Hyde 
 
+&#42; Floy N. Burdette
+
 Eddie L. Banks, Sr. 
 
-Raymond T. Hightower
+Otis E. Pope
 
-&#42; Floy N. Burdette
+Raymond T. Hightower
 
 
 ###Vigil Honor, Order of the Arrow
@@ -54,8 +56,6 @@ Peter B. Taylor
 James W. Palmer, Jr. 
 
 Derrick Stephens 
-
-
 
 
 ###Silver Award
@@ -127,13 +127,67 @@ Vincent Gee
 James W. Palmer, Jr. 
 
 
-National Conference Chief - National Order Of The Arrow 
+###National Conference Chief - National Order Of The Arrow 
 
 Ronald J. Temple, Sr. August 23, 1961 
 
-National Distinguished Service Award - Order Of The Arrow
+###National Distinguished Service Award - Order Of The Arrow
+
 Ronald J. Temple, Sr. August 23, 1978 
+
 John N. Brown August 1, 1994 
+
 James W. Palmer, Jr. July 19, 2009 
+
+###Silver Buffalo Award
+
+Ronald J. Temple, Sr. May 29, 1998 
+
+###Silver Antelope
+
+John N. Browen May 28, 1999 
+
+James W. Palmer, Jr. May 31, 2001 
+
+###Whitney M. Young Jr. Award
+
+James W. Palmer, Jr. May 12, 2000 
+
+Eddie L. Banks, Sr. December 3, 2009 
+
+Ronald J. Temple, Sr. October 21, 2010 
+
+Otis E. Pope October 27, 2011 
+
+###God and Country
+
+James W. Palmer, Jr. 
+
+Robert. Strong, Jr
+
+Howard W. Hawkins 
+
+William T. Hyde 
+
+George F. Henry, Jr. 
+
+###Wood Badge
+
+John N. Brown 
+
+Eddie L. Banks, Sr. 
+
+Raymond T. Hightower 
+
+Otis E. Pope 
+
+* Elvin Williams 
+
+James W. Palmer, Jr. 
+
+* Edward H. Brown, Jr. 
+
+Melvin S. Banks 
+
 
 &#42; = Deceased 
