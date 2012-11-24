@@ -177,8 +177,6 @@ John N. Brown
 
 Eddie L. Banks, Sr. 
 
-Raymond T. Hightower 
-
 Otis E. Pope 
 
 * Elvin Williams 
@@ -188,6 +186,8 @@ James W. Palmer, Jr.
 * Edward H. Brown, Jr. 
 
 Melvin S. Banks 
+
+Raymond T. Hightower 
 
 
 &#42; = Deceased 
