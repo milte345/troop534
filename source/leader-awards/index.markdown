@@ -30,74 +30,110 @@ William B. Ball
 
 Eddie L. Banks, Sr. 
 
-Raymond T. Hightower III 
+Raymond T. Hightower
 
 &#42; Floy N. Burdette
 
 
-VIGIL HONOR, ORDER OF THE ARROW 
+###Vigil Honor, Order of the Arrow
+
 &#42; Edward H. Brown, Jr. 
+
 Ronald J. Temple, Sr. 
+
 Robert T. Sublette, Sr. 
+
 Norville R. Carter 
+
 John N. Brown 
+
 &#42; Ervin Williams 
+
 Peter B. Taylor 
+
 James W. Palmer, Jr. 
+
 Derrick Stephens 
-Robert T. Sublette, Sr. 
-Norville R. Carter 
-&#42; William Hyde 
-James W. Palmer, Sr. 
-&#42; Willie W. Carter 
-Raymond T. Hightower III 
-Otis E. Pope 
-Jimmie T. Jones, Sr. 
-Regetta Slaughter 
-Eddie L. Banks, Sr. 
-John N. Brown 
-Ronald G. Draper 
 
-BOY SCOUTS OF AMERICA Troup 534 
-Eddie L. Banks, Sr. - Scoutmaster 
-Robert T. Sublette, Sr. - Scoutmaster (Emeritus) 
 
-TROOP LEADERS 
-SILVER AWARD 
+
+
+###Silver Award
+
 Ronald J. Temple, Sr. 
+
 &#42; William T. Carter 
 
-ST. GEORGE AWARD 
+###St. George Award
+
 &#42; Edward H. Brown 
+
 James W. Palmer, Sr. 
 
-NATIONAL EAGLE SCOUT ASSN SCOUTMASTER AWARD 
+###National Eagle Scout Association Scoutmaster Award
+
 Robert T. Subtette, Sr. 1978 
 
-SCOUTMASTER OF THE YEAR 
+###Scoutmaster of the Year
+
 Eddie L. Banks, Sr. 1998 
 
-DISTRICT AWARD OF MERIT 
+###District Award of Merit
+
+Robert T. Sublette, Sr. 
+
+Norville R. Carter 
+
+&#42; William Hyde 
+
+James W. Palmer, Sr. 
+
+&#42; Willie W. Carter 
+
+Raymond T. Hightower
+
+Otis E. Pope 
+
+Jimmie T. Jones, Sr. 
+
+Regetta Slaughter 
+
+Eddie L. Banks, Sr. 
+
+John N. Brown 
+
+Ronald G. Draper 
+
 &#42; Edward H. Brown, Jr. 
+
 &#42; Filmore Hiller 
+
 William B. Ball 
+
 &#42; Rev. Maceo D. Pembroke 
+
 &#42; Ervin Williams 
+
 Bruce M. Morrissette, Sr. 
+
 Verbertine Palmer 
+
 Melvin S. Banks 
+
 &#42; William A. Smith, Sr. 
+
 Vincent Gee 
+
 James W. Palmer, Jr. 
 
-NATIONAL CONFERENCE CHIEF - NATIONAL ORDER OF THE ARROW 
+
+National Conference Chief - National Order Of The Arrow 
+
 Ronald J. Temple, Sr. August 23, 1961 
 
-NATIONAL DISTINGUISHED SERVICE AWARD - ORDER OF THE ARROW 
+National Distinguished Service Award - Order Of The Arrow
 Ronald J. Temple, Sr. August 23, 1978 
 John N. Brown August 1, 1994 
 James W. Palmer, Jr. July 19, 2009 
 
-November 24, 2012 &#42;Deceased 
-
-
+&#42; = Deceased 
