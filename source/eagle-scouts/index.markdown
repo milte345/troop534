@@ -19,10 +19,10 @@ The following members of our Troop have earned the highest rank in Scouting, Eag
 3. Willie E. Muldrew, Jr.</td><td>	October 11, 1962
 </td></tr>
 <tr><td>
-4.      Michael B.HIIIer</td><td>	June 25, 1969
+4.      Michael B.Hiller</td><td>	June 25, 1969
 </td></tr>
 <tr><td>
-5.      Craig L. Hlller</td><td>	November 11, 1969
+5.      Craig L. Hiller</td><td>	November 11, 1969
 </td></tr>
 <tr><td>
 6.      Robert A. Strong, Jr. (1)</td><td>	November 20, 1970
@@ -40,10 +40,10 @@ The following members of our Troop have earned the highest rank in Scouting, Eag
 10.     George F. Henry, Jr.</td><td>	January 29, 1973
 </td></tr>
 <tr><td>
-11.     Zedrlck T. Braden III</td><td>	May 14, 1973
+11.     Zedrick T. Braden III</td><td>	May 14, 1973
 </td></tr>
 <tr><td>
-12.     Blair S. Mathls</td><td>	May 14, 1973
+12.     Blair S. Mathis</td><td>	May 14, 1973
 </td></tr>
 <tr><td>
 13.     Howard W. Hawkins</td><td>	June 25, 1973
@@ -97,13 +97,13 @@ The following members of our Troop have earned the highest rank in Scouting, Eag
 29.     William S. Smith</td><td>	June 13, 1977
 </td></tr>
 <tr><td>
-30.     Raymond T. HIghtower III</td><td>	October 24, 1978
+30.     Raymond T. Hightower III</td><td>	October 24, 1978
 </td></tr>
 <tr><td>
 31.     Daryl E. Matthews</td><td>	April 9, 1979
 </td></tr>
 <tr><td>
-32.     Edward T. HIghtower</td><td>	April 9, 1979
+32.     Edward T. Hightower</td><td>	April 9, 1979
 </td></tr>
 <tr><td>
 33.     Maceo D. Pembroke</td><td>	April 9,. 1979 
@@ -124,7 +124,7 @@ The following members of our Troop have earned the highest rank in Scouting, Eag
 38.     Kyle Paul Wade</td><td>	October 20, 1986
 </td></tr>
 <tr><td>
-39.     Jimmle T. Jones, Jr.</td><td>	May 14, 1987
+39.     Jimmie T. Jones, Jr.</td><td>	May 14, 1987
 </td></tr>
 <tr><td>
 40.     William Eric Ball</td><td>	May 14, 1987
