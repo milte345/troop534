@@ -6,7 +6,8 @@ sharing: true
 footer: true
 ---
 
-Useful documents, made available here in portable document format (PDF).
+Useful documents in portable document format (PDF). If your computer
+does not have a PDF reader, you can get one for [free](http://get.adobe.com/reader/).
 
 <ul>
   <li><a href="/downloads/youth.pdf">Youth Protection</a></li>
