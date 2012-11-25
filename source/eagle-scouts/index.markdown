@@ -6,7 +6,8 @@ comments: true
 sharing: true
 footer: true
 ---
-The following members of our Troop have earned the highest rank in Scouting, Eagle.  
+The following members of our Troop have earned the highest rank in Scouting: Eagle.  
+(&nbsp;) Denotes number of Palms earned beyond the Eagle rank.
 
 <table width="500">
 <tr><td>
@@ -19,7 +20,7 @@ The following members of our Troop have earned the highest rank in Scouting, Eag
 3. Willie E. Muldrew, Jr.</td><td>	October 11, 1962
 </td></tr>
 <tr><td>
-4.      Michael B.Hiller</td><td>	June 25, 1969
+4.      Michael B. Hiller</td><td>	June 25, 1969
 </td></tr>
 <tr><td>
 5.      Craig L. Hiller</td><td>	November 11, 1969
@@ -214,7 +215,7 @@ The following members of our Troop have earned the highest rank in Scouting, Eag
 68.     Matthew Patterson</td><td>	February 23, 2011
 </td></tr>
 <tr><td>
-69.     Timothy Robertson</td><td> (2)	February 23, 2011
+69.     Timothy Robertson (2)</td><td>	February 23, 2011
 </td></tr>
 <tr><td>
 70.     Rodney Shelly</td><td>	February 23, 2011

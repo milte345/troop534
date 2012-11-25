@@ -6,8 +6,7 @@ comments: true
 sharing: true
 footer: true
 ---
-The following awards have been presented to adult leaders of Troop
-534 "Hey!"
+The following awards have been presented to adult leaders our Troop.
 
 ###Silver Beaver 
 &#42; Leonard O. Lee 
@@ -179,11 +178,11 @@ Eddie L. Banks, Sr.
 
 Otis E. Pope 
 
-* Elvin Williams 
+&#42; Elvin Williams 
 
 James W. Palmer, Jr. 
 
-* Edward H. Brown, Jr. 
+&#42; Edward H. Brown, Jr. 
 
 Melvin S. Banks 
 
