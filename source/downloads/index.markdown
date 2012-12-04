@@ -16,5 +16,6 @@ does not have a PDF reader, you can get one for [free](http://get.adobe.com/read
   <li><a href="/downloads/quickref.pdf">Troop Quick Reference Guide (1-page)</a></li>
   <li><a href="/downloads/present_award.png">How to Present and/or Receive an Award</a></li>
   <li><a href="/downloads/eagle_project.pdf">Eagle Scout Service Project Workbook</a></li>
+  <li><a href="/downloads/merit_badge_clinic_registration.pdf">Pathways to Eagle - Merit Badge Clinic Registration</a></li>
 </ul>
 
