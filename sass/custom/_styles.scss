@@ -1,2 +1,9 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+// header added by RTH on 12/13/2012 to support image banner.
+header[role="banner"] {
+  background-image: url(/images/forest.jpg);
+  background-repeat: no-repeat;
+}
+
