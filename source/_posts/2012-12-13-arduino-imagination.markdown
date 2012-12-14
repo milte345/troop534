@@ -5,7 +5,7 @@ date: 2012-12-13 17:54
 comments: true
 categories: 
 ---
-Members of Explorer Post 2534 are building projects based on the <a href="http://arduino.cc">Arduino</a> microcontroller. What is Arduino? Several Arduino projects are shown in this 15-minute video:
+Members of Explorer Post 2534 are building projects based on the <a href="http://arduino.cc">Arduino</a> microcontroller. What is Arduino? Several Arduino-based projects are shown in this 15-minute video:
 
 <center><iframe width="560" height="315" src="http://www.youtube.com/embed/UoBUXOOdLXY?rel=0" frameborder="0" allowfullscreen></iframe></center>
 <!--more-->
