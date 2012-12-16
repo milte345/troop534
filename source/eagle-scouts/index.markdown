@@ -6,7 +6,12 @@ comments: true
 sharing: true
 footer: true
 ---
+<img src="/images/eagle-medal.jpg" width="250" height="302" align="left" title="Eagle Scout Medal and Badge" alt="Eagle Scout Medal and Badge">
 The following members of our Troop have earned the highest rank in Scouting: Eagle.  
+
+Eleven of our Eagles were featured on ABC news on February 13, 2011.
+Check out <a href="/blog/2011/02/14/planting-seeds-and-building-leaders/">the video</a>
+
 (&nbsp;) Denotes number of Palms earned beyond the Eagle rank.
 
 <table width="500">
@@ -50,7 +55,7 @@ The following members of our Troop have earned the highest rank in Scouting: Eag
 13.     Howard W. Hawkins</td><td>	June 25, 1973
 </td></tr>
 <tr><td>
-14.     Paul V. Delaney</td><td>	September 171 1973 
+14.     Paul V. Delaney</td><td>	September 17, 1973 
 </td></tr>
 <tr><td>
 15.     Peter B. Taylor</td><td>	September 24, 1973
@@ -107,7 +112,7 @@ The following members of our Troop have earned the highest rank in Scouting: Eag
 32.     Edward T. Hightower</td><td>	April 9, 1979
 </td></tr>
 <tr><td>
-33.     Maceo D. Pembroke</td><td>	April 9,. 1979 
+33.     Maceo D. Pembroke</td><td>	April 9, 1979 
 </td></tr>
 <tr><td>
 34.     Bryant K. Carter</td><td>	January 7, 1980 
@@ -152,7 +157,7 @@ The following members of our Troop have earned the highest rank in Scouting: Eag
 47.     Brandon Gerald Draper</td><td>	July 21, 2000
 </td></tr>
 <tr><td>
-48.     Carl J. Jackson, Jr.</td><td>	May 20, 2000
+48.     Carl J. Jackson, Jr.</td><td>	May 20, 2002
 </td></tr>
 <tr><td>
 49. Larry M. Johnson, Jr.</td><td>	September 16, 2002
@@ -197,34 +202,34 @@ The following members of our Troop have earned the highest rank in Scouting: Eag
 62.     James Allen</td><td>	February 13, 2011
 </td></tr>
 <tr><td>
-63.     James C. Boyd III</td><td>	February 23, 2011
+63.     James C. Boyd III</td><td>	February 13, 2011
 </td></tr>
 <tr><td>
-64.     Mayan Cook</td><td>	February 23, 2011
+64.     Mayan Cook</td><td>	February 13, 2011
 </td></tr>
 <tr><td>
-65.     Christopher F. Davis</td><td>	February 23, 2011
+65.     Christopher F. Davis</td><td>	February 13, 2011
 </td></tr>
 <tr><td>
-66.     Kennady Gee</td><td>	February 23, 2011
+66.     Kennady Gee</td><td>	February 13, 2011
 </td></tr>
 <tr><td>
-67.     Brandon Patterson</td><td>	February 23, 2011
+67.     Brandon Patterson</td><td>	February 13, 2011
 </td></tr>
 <tr><td>
-68.     Matthew Patterson</td><td>	February 23, 2011
+68.     Matthew Patterson</td><td>	February 13, 2011
 </td></tr>
 <tr><td>
-69.     Timothy Robertson (2)</td><td>	February 23, 2011
+69.     Timothy Robertson (2)</td><td>	February 13, 2011
 </td></tr>
 <tr><td>
-70.     Rodney Shelly</td><td>	February 23, 2011
+70.     Rodney Shelly</td><td>	February 13, 2011
 </td></tr>
 <tr><td>
-71.     Booker Vance</td><td>	February 23, 2011
+71.     Booker Vance</td><td>	February 13, 2011
 </td></tr>
 <tr><td>
-72.     Raymond Westbrook</td><td>	February 23, 2011
+72.     Raymond Westbrook</td><td>	February 13, 2011
 </td></tr>
 <tr><td>
 </table>
