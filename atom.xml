@@ -4,7 +4,7 @@
   <title><![CDATA[Troop534.org]]></title>
   <link href="http://troop534.org/atom.xml" rel="self"/>
   <link href="http://troop534.org/"/>
-  <updated>2013-01-12T14:51:27-06:00</updated>
+  <updated>2013-01-12T15:07:31-06:00</updated>
   <id>http://troop534.org/</id>
   <author>
     <name><![CDATA[Boy Scouts of America - Troop 534 "Hey!"]]></name>
@@ -22,7 +22,7 @@
 
 <p>In this 9-minute video, Dr. Claybrooks reviews the advantages of minimally invasive surgery.</p>
 
-<center><iframe width="560" height="315" src="http://www.youtube.com/embed/rNyKSNUR608?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe name="drclaybrooks" width="560" height="315" src="http://www.youtube.com/embed/rNyKSNUR608?rel=0" frameborder="0" allowfullscreen></iframe></center>
 
 
 <!--more-->
