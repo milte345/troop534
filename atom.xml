@@ -4,7 +4,7 @@
   <title><![CDATA[Troop534.org]]></title>
   <link href="http://troop534.org/atom.xml" rel="self"/>
   <link href="http://troop534.org/"/>
-  <updated>2012-12-16T13:55:43-06:00</updated>
+  <updated>2013-01-12T14:51:27-06:00</updated>
   <id>http://troop534.org/</id>
   <author>
     <name><![CDATA[Boy Scouts of America - Troop 534 "Hey!"]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dr. Roderick Claybrooks on Minimally Invasive Surgery]]></title>
+    <link href="http://troop534.org/blog/2013/01/12/dr-roderick-claybrooks-on-minimally-invasive-surgery/"/>
+    <updated>2013-01-12T14:47:00-06:00</updated>
+    <id>http://troop534.org/blog/2013/01/12/dr-roderick-claybrooks-on-minimally-invasive-surgery</id>
+    <content type="html"><![CDATA[<p>Dr. Roderick Claybrooks is an <a href="http://en.wikipedia.org/wiki/Orthopedic_surgery">orthopedic spine surgeon</a>.</p>
+
+<p>In this 9-minute video, Dr. Claybrooks reviews the advantages of minimally invasive surgery.</p>
+
+<center><iframe width="560" height="315" src="http://www.youtube.com/embed/rNyKSNUR608?rel=0" frameborder="0" allowfullscreen></iframe></center>
+
+
+<!--more-->
+
+
+<p>Minimally invasive surgery is an advanced technique whereby the surgeon makes fewer and smaller incisions in the patient&#8217;s body. A minimally invasive incision might be 20mm (less than one inch) in size.</p>
+
+<p>When the incision is smaller the patient benefits in many ways, including:</p>
+
+<ul>
+<li>Less blood loss</li>
+<li>Shorter hospital stays</li>
+<li>Quicker recovery time</li>
+<li>Less anesthesia</li>
+</ul>
+
+
+<p>In summary, minimally invasive surgery enables patients to recover faster. To learn more, consult your physician.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Arduino Imagination]]></title>
