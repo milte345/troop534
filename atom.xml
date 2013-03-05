@@ -4,7 +4,7 @@
   <title><![CDATA[Troop534.org]]></title>
   <link href="http://troop534.org/atom.xml" rel="self"/>
   <link href="http://troop534.org/"/>
-  <updated>2013-02-21T10:20:05-06:00</updated>
+  <updated>2013-03-04T18:13:01-06:00</updated>
   <id>http://troop534.org/</id>
   <author>
     <name><![CDATA[Boy Scouts of America - Troop 534 "Hey!"]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Message from President Obama]]></title>
+    <link href="http://troop534.org/blog/2013/03/04/message-from-president-obama/"/>
+    <updated>2013-03-04T18:04:00-06:00</updated>
+    <id>http://troop534.org/blog/2013/03/04/message-from-president-obama</id>
+    <content type="html"><![CDATA[<p>Eagle Scout Matthew Gully received the following congratulatory message
+from President Barack Obama and First Lady Michelle Obama.</p>
+
+<p><img src="http://troop534.org/images/PresObama-EagleScoutGully.png" align="center" width="600" height="414" alt="President Obama's Message to Eagle Scout Matthew Gully" title="President Obama's Message to Eagle Scout Matthew Gully"></p>
+
+<p>Congratulations Eagle Scout Gully, and to your family as well!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Video: How a BMW Gets Made]]></title>
