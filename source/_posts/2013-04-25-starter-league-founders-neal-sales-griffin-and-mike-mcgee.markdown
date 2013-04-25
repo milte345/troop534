@@ -7,8 +7,7 @@ categories:
 ---
 This is the first of five videos featuring [The Starter League](http://starterleague.com) founders [Neal Sales-Griffin](http://twitter.com/nealsales) and [Mike McGee](http://twitter.com/michaelmcgee).
 
-
-Summary: Griffin and McGee wanted to learn how to code, but they
+Summary: Griffin and McGee wanted to learn how to build web apps, but they
 couldn't find adequate resources. The duo turned their frustration into
 a successful business.
 
