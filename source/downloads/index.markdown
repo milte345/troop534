@@ -10,6 +10,7 @@ Useful documents in portable document format (PDF). If your computer
 does not have a PDF reader, you can get one for [free](http://get.adobe.com/reader/).
 
 <ul>
+  <li><a href="/downloads/bsa_medical_form.pdf">Medical Form</a></li>
   <li><a href="/downloads/youth.pdf">Youth Protection</a></li>
   <li><a href="/downloads/Troop_534_New_Parent_Orientation_2012.pdf">New Parent Orientation</a></li>
   <li><a href="/downloads/camping_gear.pdf">Camping Gear List</a></li>
