@@ -4,7 +4,7 @@
   <title><![CDATA[Troop534.org]]></title>
   <link href="http://troop534.org/atom.xml" rel="self"/>
   <link href="http://troop534.org/"/>
-  <updated>2013-05-11T09:21:31-05:00</updated>
+  <updated>2013-05-11T09:52:30-05:00</updated>
   <id>http://troop534.org/</id>
   <author>
     <name><![CDATA[Boy Scouts of America - Troop 534 "Hey!"]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Happy Mothers Day]]></title>
+    <link href="http://troop534.org/blog/2013/05/12/happy-mothers-day/"/>
+    <updated>2013-05-12T09:34:00-05:00</updated>
+    <id>http://troop534.org/blog/2013/05/12/happy-mothers-day</id>
+    <content type="html"><![CDATA[<p>Happy Mothers Day from the members of Troop 534 &#8220;Hey!&#8221;</p>
+
+<blockquote><p>&#8220;If every mom in the world knew how awesome they were, every problem in the world would be fixed.&#8221;
+~Kid President</p></blockquote>
+
+<center><iframe width="560" height="315" name="mothersday" src="http://www.youtube.com/embed/pQ4Rnba85o8?rel=0" frameborder="0" allowfullscreen></iframe></center>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Starter League Founders Neal Sales-Griffin and Mike McGee]]></title>
