@@ -5,4 +5,19 @@ date: 2013-05-14 14:23
 comments: true
 categories: 
 ---
-Annual St.Jude Police League Memorial March held Sunday,  May 5, 2013. Took place in the Gold Star Memorial Park (located at McFetridge Dr.& Museum Campus Dr.) The park is a tribute to fallen and injured CPD officers and honors them & the loved ones who share in the tragedies. The park was dedicated in Sept.2006. There is a marble wall with names of the fallen, called the "Sacrifice Space" & names of the injured called "Living Sacrifice". Parade is done annually to honor our fallen Police Officers; Illinois State Police,  Cook County Sheriff's Police & Chicago Police are all in attendance including the recruits from each department. We  march as a sign of a united  front for the comfort & solidarity of the surviving family members who come to view the march. This is your true "Band of Brotherhood". The Officer's wear a black band across their star as a sign of & paying respect to a fallen officer and a blue ribbon is given to each participant to wear as tribute. ALL OFFICER'S, dedicate their LIVES to serving and protecting the State, County, City and Citizens of Illinois. Those of us who are lucky enough to come home to our families after each "Tour of Duty" know what the ultimate sacrifice is and what it symbolizes. "WE WILL NEVER FORGET". That's why you have two mom's in full uniform in that picture. Check out news.yahoo.com/chicagos-gold-star-families-memorial-park-honors-police on Google & St. Jude Parade 2013 for videos. Thank you for your care & concern and the Scouts who participated. Due to the humbling nature of this event, I think they should participate Every Year, because it also shows appreciation as well as young black boys being involved in something positive and not ashamed to show that they are. Maybe next year they will have a chance to take a picture with the Chicago Mayor (he is there every year).
+<a href="/images/st-jude-boy-scout-troop-534-flag.jpg"><img src="/images/st-jude-boy-scout-troop-534-flag.jpg" align="right" width="300" height="" alt="Boy Scout Troop 534 at St Jude Memorial March" title="Boy Scout Troop 534 at St Jude Memorial March"></a>
+Members of Boy Scout Troop 534 "Hey!" participated in the annual St.Jude Police League Memorial March on Sunday, May 5, 2013. [Video](http://news.yahoo.com/chicagos-gold-star-families-memorial-park-honors-police-195900380.html)
+
+Note: The two police officers in the photograph are mothers of Troop 534 "Hey!"
+
+The parade took place in the Gold Star Memorial Park located near Lake Michigan at McFetridge Dr. The park is a tribute to fallen and injured Chicago Police Department officers.
+<!--more-->
+The park includes a marble wall with names of the fallen, called the "Sacrifice Space" & names of the injured called "Living Sacrifice".
+
+The parade is done annually to honor fallen police officers from:
+
+* Illinois State Police
+* Cook County Sheriff's Police 
+* Chicago Police Department
+
+The officers march as a sign of unity for the comfort & solidarity of the surviving family members who come to view the march. This is your true "Band of Brotherhood". The officers wear a black band across their star as a sign of & paying respect to a fallen officer and a blue ribbon is given to each participant to wear as tribute. All officer, dedicate their lives to serving and protecting the state, county, city and citizens of Illinois. 
